@@ -12,15 +12,15 @@
 ### 🎓 My Skills:
 Code:
 <br>
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Spring_Framework-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=71b6bf)
+![](https://img.shields.io/badge/Code-Spring_Framework-informational?style=flat&logo=Spring&logoColor=white&color=71b6bf)
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=71b6bf)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=71b6bf)
 <br>
 Tools:
 <br>
-![](https://img.shields.io/badge/Edirot-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-ClickUp-informational?style=flat&logo=ClickUp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Edirot-IntelliJ_IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=71b6bf)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=71b6bf)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=71b6bf)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=71b6bf)
+![](https://img.shields.io/badge/Tools-ClickUp-informational?style=flat&logo=ClickUp&logoColor=white&color=71b6bf)
