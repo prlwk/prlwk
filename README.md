@@ -1,4 +1,5 @@
 ### 📌 Pinned Repositories:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prlwk&repo=telegram-bot-parser-SIGame&theme=nord&hide_border=true)](https://github.com/prlwk/Friendbook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prlwk&repo=accounting-firm-automation&theme=nord&hide_border=true)](https://github.com/prlwk/accounting-firm-automation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=typeCPP&repo=Stellarium&theme=nord&hide_border=true)](https://github.com/typeCPP/Stellarium)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prlwk&repo=Java-labs&theme=nord&hide_border=true)](https://github.com/prlwk/Java-labs)
